@@ -438,7 +438,7 @@ input.set-amount{
   font-family: 'Lato';
   font-size: 16px;
   font-weight: 300;
-  color: #6d6d6d;
+  color: #ffffff;
   margin: 10px 20px;
 }
 input.set-amount:focus{
